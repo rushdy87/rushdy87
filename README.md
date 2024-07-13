@@ -4,11 +4,11 @@
 My name is Mohammed Alrushdy from Iraq, I work on oil and gas industry. I like learing and use programming languages and frameworks.
 
 
-##Skills and Experience
+## Skills and Experience
 * ⚛️ React
 * 🐍 Python
 * 🖥️ JS / HTML / CSS
-* 🎭 Node / Express 
+* 🎭 Node / Express
 
 - 🔭 I’m currently working on Karbala oil refinery 
 - 🌱 I’m currently learning C# 
