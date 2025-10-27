@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed Alrushdy</h1>
+<h1 align="center">Mohammed Alrushdy</h1>
 <h3 align="center">Code, Coffee, and Sport</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rushdy87&label=Profile%20views&color=0e75b6&style=flat" alt="rushdy87" />
